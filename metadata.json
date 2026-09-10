@@ -1,0 +1,6 @@
+{
+  "name": "SophIA V.2026 - Avatar AGI Nivel 5 & Asistente Universal",
+  "description": "Avatar fotorrealista SophIA renderizado estilo Unreal Engine 5.4+ con autonomía AGI Nivel 5, control multimodal total (voz, texto, imágenes, video, documentos), simulación de 3 escenarios, persistencia Firebase, control Smart TV, domótica IoT y Bluetooth.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
